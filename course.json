@@ -1,19 +1,23 @@
 [
   {
      "img":"https://ik.imagekit.io/hbj42mvqwv/MCA_QFj3iofAH5.jpg",
-     "title":"Bachelor of Computer Applications",
+     "title":"Masters in Computer Applications",
      "link":"MCA",
      "semester":[
         {
            "title":1,
            "subjects":[
               {
-                 "title":"Mathematics",
+                 "title":"Discrete Structures",
                  "paper_id":20101,
                  "syllabus":{
                     "unit_1":{
-                       "title":"DETERMINANTS",
-                       "chapters":"Definition, Minors, Cofactors, Properties of Determinants, MATRICES: Definition, Types of Matrices, Addition, Subtraction, Scalar Multiplication and Multiplication of Matrices, Adjoint, Inverse, Cramers Rule, Rank of Matrix Dependence of Vectors, Eigen - Vectors of a Matrix, Caley-Hamilton Theorem (without proof)"
+                       "title":"Sets Theory Concepts, Combinatorics & Recurrence Relations",
+                       "chapters":"Sets, Subsets, Power Set, Multi-sets, Operations on Sets, Algebra
+of sets, Principle of Inclusion and Exclusion; Cartesian Product, Relations, Types of
+Relations, Equivalence Relation, Partial Order Relation, Closure of Relation; Function,
+Properties of Functions, One-one Function, Many-one Function, Onto function,
+Composition of a Function, Invertible Function."\n" Permutation, Combination, Combination with Unlimited Repetition, Pigeonhole Principle. "\n" Definition, Solution of Linear First-order Recurrence Relations with Constant Coefficients (Homogeneous and Non-homogeneous)."
                     },
                     "unit_2":{
                        "title":"LIMITS & CONTINUITY",
