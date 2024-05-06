@@ -25,7 +25,7 @@
         "Unit 4" : "http://bit.ly/math_unit4"
       },
       "Paper_analysis_url" : "http://bit.ly/2VlqvAx",
-      "SubjectName" : "--",
+      "SubjectName" : "Data and File Structures",
       "Youtube" : {
         "Vid1" : "https://www.youtube.com/playlist?list=PLHz3_2lRlEzqT6B1h-AhgtvIbdbK9RRb-",
         "Vid3" : "https://www.youtube.com/playlist?list=PLmXKhU9FNesS7GpOddHDX3ZCl86_cwcIn",
@@ -58,7 +58,7 @@
         "Unit 4" : "http://bit.ly/pom_unit4"
       },
       "Paper_analysis_url" : "http://bit.ly/2WQVRk3",
-      "SubjectName" : "Database Management Systems",
+      "SubjectName" : "Object Oriented Software Engineering",
       "Youtube" : {
         "Vid1" : "https://www.youtube.com/playlist?list=PLeWDeRMAMaffBCwESfmFmo0grMpwO8z1J"
       }
@@ -83,7 +83,7 @@
         "notes1" : ""
       },
       "Paper_analysis_url" : "http://bit.ly/2M8wrNZ",
-      "SubjectName" : "Digital Electronics",
+      "SubjectName" : "Python Programming",
       "Youtube" : {
         "Vid1" : "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm"
       }
@@ -101,7 +101,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp"
       }
     },
-    "MCA 108" : {
+    "MCA 120" : {
       "Akash_url" : "http://bit.ly/2PLg1cz",
       "Book_url" : "",
       "Notes" : {
@@ -111,7 +111,7 @@
         "UNIT 4 - Hashing" : "http://bit.ly/ds_hashing1"
       },
       "Paper_analysis_url" : "http://bit.ly/2Lw940y",
-      "SubjectName" : "Data Structure using C",
+      "SubjectName" : "Software Testing",
       "Youtube" : {
         "Vid1" : "https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU"
       }
@@ -129,7 +129,7 @@
         "vid2" : ""
       }
     },
-    "MCA 110" : {
+    "MCA 128" : {
       "Akash_url" : "http://bit.ly/2W3aa4R",
       "Book_url" : "",
       "Notes" : {
@@ -138,7 +138,7 @@
         "Unit 4" : "http://bit.ly/dbms_unit4"
       },
       "Paper_analysis_url" : "http://bit.ly/2J4Nxdt",
-      "SubjectName" : "Database Management System",
+      "SubjectName" : "Digital Marketing",
       "Youtube" : {
         "Vid1" : "https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc"
       }
