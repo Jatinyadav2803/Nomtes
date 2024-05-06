@@ -17,17 +17,15 @@
                     },
                     "unit_2":{
                        "title":"Formal logic, Methods of Proofs, Lattices & Boolean Algebra",
-                       "chapters":"Statement, Symbolic Representation, Tautologies, Fallacy, Operations on Logic, Logically Equivalence, Algebra of Propositions, Arguments and Validity, Rules of
-Inference for Propositional Logic, Normal Forms. Direct Proof, Indirect Proof, Proof by Contradiction, Proof by Exhaustive Cases, Principle of Mathematical Induction, Principle of Complete Induction. Poset, Lattice, Sublattices, Types of Lattices - Bounded Lattice, Distributive Lattice, Complemented Lattice; Isomorphic Lattices. Definition, Subalgebra, Boolean Function, Boolean Expressions,
-Minimization of Boolean Function, K-Map."
+                       "chapters":"Statement, Symbolic Representation, Tautologies, Fallacy, Operations on Logic, Logically Equivalence, Algebra of Propositions, Arguments and Validity, Rules of Inference for Propositional Logic, Normal Forms. Direct Proof, Indirect Proof, Proof by Contradiction, Proof by Exhaustive Cases, Principle of Mathematical Induction, Principle of Complete Induction. Poset, Lattice, Sublattices, Types of Lattices - Bounded Lattice, Distributive Lattice, Complemented Lattice; Isomorphic Lattices. Definition, Subalgebra, Boolean Function, Boolean Expressions, Minimization of Boolean Function, K-Map."
                     },
                     "unit_3":{
                        "title":"Number Theory & Group Theory",
                        "chapters":"Primes, Division Algorithm, Greatest Common Divisor (GCD), LCM, Euclidean Algorithm, Fundamental Theorem of Arithmetic, Congruences, Linear Congruence equations, Chinese-Remainder Theorem, Euler Phi function, Fermat’s Little Theorem, Applications of Congruences – ISBN, UPC, Introduction to Cryptography. Definition, Groups as Symmetries, Subgroups, Cosets, Cyclic Group, Normal Subgroups, Quotient Group, Lagrange’s Theorem, Homomorphism, Permutation Group."
                     },
                     "unit_4":{
-                       "title":"INTEGRATION",
-                       "chapters":"Integral as Limit of Sum, Riemann Sum, Fundamental Theorem of Calculus, Indefinite Integrals, Methods of Integration Substitution, By Parts, Partial Fractions, Integration of Algebraic and transcedental Functions, Reduction Formulae for Trigonometric Functions, Gamma and Beta Functions."
+                       "title":"Graph Theory",
+                       "chapters":"Graphs, Types of Graphs, Degree of a Vertex, Subgraphs and Isomorphic Graphs, Representation of Graphs, Operations of Graphs, Walks and Paths, Connectivity, Weighted Graphs, Euler Graph, Fluery’s Algorithm, Hamiltonian Graph, Cut-Vertices and Cut-Edges, Planar Graphs, Euler’s formula, Graph Colouring - Vertex Colouring, Edge Colouring, Chromatic Number and Chromatic Polynomial, Welch-Powell Algorithm, Four Colour Conjecture, Five Colour Theorem (with proof)."
                     }
                  }
               },
