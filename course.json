@@ -52,29 +52,29 @@
                  }
               },
               {
-                 "title":"Introduction to Programming Language using C",
+                 "title":"Operating Systems with Linux",
                  "paper_id":20105,
                  "syllabus":{
                     "unit_1":{
-                       "title":"C basics",
-                       "chapters":"C character set, Identifiers and keywords, Data types, constants, variables and arrays, declarations, expressions statements, symbolic constants, compound statements, arithmetic operators, unary operators, relational and logical operators, assignment operators, conditional operators, bit operators.  C constructs: If statement, if....else statement, if.....else if....else statement, while statement, do....while statement, for statement, switch statement, nested control statement, break operator, continue operator, comma operator, goto statement.  "
+                       "title":"Operating System, Computer System Architecture, Types of OS & Linux OS",
+                       "chapters":"Operating System: Concept, Components of Operating System, Operating System Operations, Protection and Security. Computing Environment. Abstract View of OS: User view, System View, Operating System Services, System Calls: Concept, types of System Calls. Computer System Architecture: Single-Processor Systems, Multiprocessor Systems. Types of Operating systems: Batch Operating System, Multi-Programmed Operating System, Time-Shared Operating System, Real Time Operating System, Distributed Operating Systems. Process Management: Process Concept, Operation on Processes, Cooperating Processes, Inter-Process Communication, Threads. Linux Operating System: Introduction to Linux OS, Basic Commands of Linux OS."
                     },
                     "unit_2":{
-                       "title":"C Functions",
-                       "chapters":"Functions: declaration, definition & scope, recursion, call by value, call by reference.  Storage Classes: automatic, external (global), static & registers.  Arrays: Arrays, pointers, array & pointer relationship, pointer arithmetic, dynamic memory allocation, pointer to arrays, array of pointers, pointers to functions, array of pointers to functions, Preprocessor directives: #include, #define, macro’s with arguments, the operators # and ##, conditional compilations. "
+                       "title":"Process Synchronization, CPU Scheduling & Linux OS",
+                       "chapters":"Process Synchronization: Introduction, The Critical-Section Problem with solution, Bakery Algorithm, Synchronization hardware, Semaphores, Semaphores Implementation, Classical Problems of Synchronization with algorithms, Critical Regions, Monitors. CPU Scheduling: Basic Concepts, Scheduling Criteria, Scheduling algorithms, Multilevel Queue Scheduling, Multilevel Feedback Queue Scheduling. Linux Operating System: Process Management Commands and System Calls."
                     },
                     "unit_3":{
-                       "title":"Structures",
-                       "chapters":"Structures, unions, passing structure to functions, bit fields, file handling [text (ASCII), binary]  "
+                       "title":"Deadlock, Memory Management & Linux OS",
+                       "chapters":"deadlock: System Models, Deadlock Characterization, Resource Allocation Graph, Deadlock Prevention, Avoidance, Detection and Recovery, Banker%E2%80%99s algorithm. Memory Management: Main Memory: Contiguous Memory Allocation, Fragmentation, Paging, And Segmentation. Virtual Memory: Demand Paging, Page Replacement, Page replacement algorithm, Allocation of frames, Thrashing. Linux Operating System: Memory Management Commands and System Calls."
                     },
                     "unit_4":{
-                       "title":"Standard library functions",
-                       "chapters":"String manipulation functions and other standard library functions from stdio.h, stdlib.h, conio.h, ctype.h, math.h, string.h, process.h."
+                       "title":"File-System Interface, Devices, Secondary Storage, Linux OS",
+                       "chapters":"File, Devices and Secondary Storage Management: File-System Interface: Concepts,Access Methods, Directory and Disk Structure. File-System Structure, File-SystemImplementation, Directory Implementation, Allocation Methods, Free-Space Management.Devices: Types of devices, Channels and Control Unit, Multiple Paths, Block Multiplexing.Secondary Storage: Mass-Storage Structure, Disk Structure, Disk Scheduling Algorithms,Disk Management, RAID structure of disk.Linux Operating System: File Management Commands and System Calls."
                     }
                  }
               },
               {
-                 "title":"Introduction to Computers and IT",
+                 "title":"Database Management Systems",
                  "paper_id":20107,
                  "syllabus":{
                     "unit_1":{
