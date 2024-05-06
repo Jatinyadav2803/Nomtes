@@ -153,7 +153,7 @@
         "Unit 3 + 4" : "http://bit.ly/2BDFCxW"
       },
       "Paper_analysis_url" : "http://bit.ly/2OAet6b",
-      "SubjectName" : "Mathematics – III",
+      "SubjectName" : "Design and Analysis of Algorithms",
       "Youtube" : {
         "Unit I and II" : "https://www.youtube.com/playlist?list=PLkW3zC7NnNHYhpN0e7LJW9MMDKyIT_dpV",
         "Unit III and IV" : "https://www.youtube.com/playlist?list=PLabr9RWfBcnoLyXr4Y7MzmHSu3bDjLvhu"
@@ -184,7 +184,7 @@
         "Unit 4" : "http://bit.ly/2s23UjH"
       },
       "Paper_analysis_url" : "http://bit.ly/2CgyLe6",
-      "SubjectName" : "Computer Architecture",
+      "SubjectName" : "Artificial Intelligence and Machine Learning",
       "Youtube" : {
         "Vid1" : "https://www.youtube.com/playlist?list=PLftJ4X48yC1nRU3-6h0P30rWoT-hznf74"
       }
@@ -209,7 +209,7 @@
         "dHTML" : "https://www.youtube.com/playlist?list=PLWWqE3Nx9YpvDDohYNl9HhU_pgh0YwnVk"
       }
     },
-    "MCA 205" : {
+    "MCA 223" : {
       "Akash_url" : "http://bit.ly/36qRVvV",
       "Book_url" : "http://bit.ly/35j7Zy7",
       "Notes" : {
@@ -217,7 +217,7 @@
         "Unit 3 & 4" : "http://bit.ly/34OVt9v"
       },
       "Paper_analysis_url" : "http://bit.ly/36kdFZr",
-      "SubjectName" : "Front End Design Tool VB.Net",
+      "SubjectName" : "Cloud Computing",
       "Youtube" : {
         "Unit1" : "https://www.youtube.com/playlist?list=PLS1QulWo1RIYLpgVN_CpXbkOQoYJTItzg",
         "Unit2" : "https://www.youtube.com/playlist?list=PL6n9fhu94yhX5dzHunAI2t4kE0kOuv4D7"
@@ -243,7 +243,7 @@
         "Servlet and JSP Tutorial for Beginners 2018" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7pUPF2xjjJiG4BKC9x_GY46"
       }
     },
-    "MCA 207" : {
+    "MCA 243" : {
       "Akash_url" : "http://bit.ly/33qemz8",
       "Book_url" : "",
       "Notes" : {
@@ -252,7 +252,7 @@
         "Unit 4" : "http://bit.ly/33aeyBW"
       },
       "Paper_analysis_url" : "http://bit.ly/2LJo9tx",
-      "SubjectName" : "Principles of Accounting",
+      "SubjectName" : "Compiler Design",
       "Youtube" : {
         "Vid" : "https://www.youtube.com/playlist?list=PLEJOTGLf455Dlox6VG_2ODwrG3jA0MJb5"
       }
@@ -269,7 +269,7 @@
         "SE" : "https://www.youtube.com/playlist?list=PL3oWeJK3GDfyHhD9JOBe-C3UO4o0OLFsk"
       }
     },
-    "MCA 209" : {
+    "MCA 253" : {
       "Akash_url" : "http://bit.ly/2PKl6SU",
       "Book_url" : "",
       "Notes" : {
@@ -279,7 +279,7 @@
         "Unit 4: Generic Programming" : "http://bit.ly/2rdmnJq"
       },
       "Paper_analysis_url" : "http://bit.ly/2LXoSr0",
-      "SubjectName" : "Object Oriented Programming using C++",
+      "SubjectName" : "Cyber Security and Cyber Laws",
       "Youtube" : {
         "Vid" : "https://www.youtube.com/playlist?list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq"
       }
