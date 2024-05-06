@@ -1,6 +1,6 @@
 {
-  "BCA" : {
-    "BCA 101" : {
+  "MCA" : {
+    "MCA 101" : {
       "Akash_url" : "http://bit.ly/2JLqQcV",
       "Book_url" : "http://bit.ly/2YJBwNW",
       "Notes" : {
@@ -15,7 +15,7 @@
         "Integrations" : "https://www.youtube.com/playlist?list=PLkW3zC7NnNHYIBBZeXCex_YETRDCtre4u"
       }
     },
-    "BCA 102" : {
+    "MCA 102" : {
       "Akash_url" : "http://bit.ly/2VMFqZ6",
       "Book_url" : "http://bit.ly/2IeMGXT",
       "Notes" : {
@@ -33,7 +33,7 @@
         "vid2" : "https://www.youtube.com/playlist?list=PLHz3_2lRlEzr9pmT_Qpk3eJGdUuSr6FON"
       }
     },
-    "BCA 103" : {
+    "MCA 103" : {
       "Akash_url" : "http://bit.ly/34rHRk6",
       "Book_url" : "",
       "Notes" : {
@@ -48,7 +48,7 @@
         "yotube" : ""
       }
     },
-    "BCA 104" : {
+    "MCA 104" : {
       "Akash_url" : "http://bit.ly/2GVfQHC",
       "Book_url" : "",
       "Notes" : {
@@ -63,7 +63,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLeWDeRMAMaffBCwESfmFmo0grMpwO8z1J"
       }
     },
-    "BCA 105" : {
+    "MCA 105" : {
       "Akash_url" : "http://bit.ly/36sGzaq",
       "Book_url" : "",
       "Notes" : {
@@ -76,7 +76,7 @@
         "vid2" : "https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh"
       }
     },
-    "BCA 106" : {
+    "MCA 106" : {
       "Akash_url" : "http://bit.ly/2Lmhpnw",
       "Book_url" : "http://bit.ly/2tq221A",
       "Notes" : {
@@ -88,7 +88,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm"
       }
     },
-    "BCA 107" : {
+    "MCA 107" : {
       "Akash_url" : "http://bit.ly/36jH8DA",
       "Book_url" : "",
       "Notes" : {
@@ -101,7 +101,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp"
       }
     },
-    "BCA 108" : {
+    "MCA 108" : {
       "Akash_url" : "http://bit.ly/2PLg1cz",
       "Book_url" : "",
       "Notes" : {
@@ -116,7 +116,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU"
       }
     },
-    "BCA 109" : {
+    "MCA 109" : {
       "Akash_url" : "http://bit.ly/2N4qqAF",
       "Book_url" : "http://bit.ly/2Zg21Pj",
       "Notes" : {
@@ -129,7 +129,7 @@
         "vid2" : ""
       }
     },
-    "BCA 110" : {
+    "MCA 110" : {
       "Akash_url" : "http://bit.ly/2W3aa4R",
       "Book_url" : "",
       "Notes" : {
@@ -143,7 +143,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc"
       }
     },
-    "BCA 201" : {
+    "MCA 201" : {
       "Akash_url" : "http://bit.ly/2PvCWdJ",
       "Book_url" : "",
       "Notes" : {
@@ -159,7 +159,7 @@
         "Unit III and IV" : "https://www.youtube.com/playlist?list=PLabr9RWfBcnoLyXr4Y7MzmHSu3bDjLvhu"
       }
     },
-    "BCA 202" : {
+    "MCA 202" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -173,7 +173,7 @@
         "Probability Distributions" : "https://www.youtube.com/playlist?list=PLaFfQroTgZnzbfK-Rie19FdV6diehETQy"
       }
     },
-    "BCA 203" : {
+    "MCA 203" : {
       "Akash_url" : "http://bit.ly/34fTN8E",
       "Book_url" : "",
       "Notes" : {
@@ -189,7 +189,7 @@
         "Vid1" : "https://www.youtube.com/playlist?list=PLftJ4X48yC1nRU3-6h0P30rWoT-hznf74"
       }
     },
-    "BCA 204" : {
+    "MCA 204" : {
       "Akash_url" : "https://bit.ly/3g5d9nN",
       "Book_url" : "",
       "Notes" : {
@@ -209,7 +209,7 @@
         "dHTML" : "https://www.youtube.com/playlist?list=PLWWqE3Nx9YpvDDohYNl9HhU_pgh0YwnVk"
       }
     },
-    "BCA 205" : {
+    "MCA 205" : {
       "Akash_url" : "http://bit.ly/36qRVvV",
       "Book_url" : "http://bit.ly/35j7Zy7",
       "Notes" : {
@@ -223,7 +223,7 @@
         "Unit2" : "https://www.youtube.com/playlist?list=PL6n9fhu94yhX5dzHunAI2t4kE0kOuv4D7"
       }
     },
-    "BCA 206" : {
+    "MCA 206" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -243,7 +243,7 @@
         "Servlet and JSP Tutorial for Beginners 2018" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7pUPF2xjjJiG4BKC9x_GY46"
       }
     },
-    "BCA 207" : {
+    "MCA 207" : {
       "Akash_url" : "http://bit.ly/33qemz8",
       "Book_url" : "",
       "Notes" : {
@@ -257,7 +257,7 @@
         "Vid" : "https://www.youtube.com/playlist?list=PLEJOTGLf455Dlox6VG_2ODwrG3jA0MJb5"
       }
     },
-    "BCA 208" : {
+    "MCA 208" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -269,7 +269,7 @@
         "SE" : "https://www.youtube.com/playlist?list=PL3oWeJK3GDfyHhD9JOBe-C3UO4o0OLFsk"
       }
     },
-    "BCA 209" : {
+    "MCA 209" : {
       "Akash_url" : "http://bit.ly/2PKl6SU",
       "Book_url" : "",
       "Notes" : {
@@ -284,7 +284,7 @@
         "Vid" : "https://www.youtube.com/playlist?list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq"
       }
     },
-    "BCA 210" : {
+    "MCA 210" : {
       "Akash_url" : "",
       "Book_url" : "http://bit.ly/2TLs1gS",
       "Notes" : {
@@ -297,7 +297,7 @@
         "CN" : "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"
       }
     },
-    "BCA 301" : {
+    "MCA 301" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -309,7 +309,7 @@
         "OS" : "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p"
       }
     },
-    "BCA 302" : {
+    "MCA 302" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -324,7 +324,7 @@
         "4 Data warehouse and data mining" : "https://www.youtube.com/playlist?list=PL0s3O6GgLL5fuVR545mzIuCkgGLi02fkN"
       }
     },
-    "BCA 303" : {
+    "MCA 303" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -337,7 +337,7 @@
         "2 Computer Graphics" : "https://www.youtube.com/playlist?list=PLWPirh4EWFpHukXICQrDcmjZUa2WlLMAb"
       }
     },
-    "BCA 304" : {
+    "MCA 304" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -351,7 +351,7 @@
         "3 Mobile Computing IPU" : "https://www.youtube.com/playlist?list=PLPEhGb71u9EhlpzSedPmCBIocOTflCD5A"
       }
     },
-    "BCA 305" : {
+    "MCA 305" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -371,7 +371,7 @@
         "9 DIGITAL MARKETING - CAMPAIGNS CASE STUDIES" : "https://www.youtube.com/playlist?list=PL6mNfaiUSHTdIGAMXsaMYCZEWmHeHhyKM"
       }
     },
-    "BCA 306" : {
+    "MCA 306" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -383,7 +383,7 @@
         "yt" : ""
       }
     },
-    "BCA 307" : {
+    "MCA 307" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -395,7 +395,7 @@
         "Software Testing Training Videos | Edureka" : "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHYamtWSSlt5jF52WvP0cHl"
       }
     },
-    "BCA 308" : {
+    "MCA 308" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -407,7 +407,7 @@
         "yt" : ""
       }
     },
-    "BCA 309" : {
+    "MCA 309" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -420,7 +420,7 @@
         "2 MICROPROCESSOR GATE 2020 (EE&ECE&IN)" : "https://www.youtube.com/playlist?list=PL1XaeVNXKsvylDOYoZzxiWPd5CNvc3RYQ"
       }
     },
-    "BCA 310" : {
+    "MCA 310" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -432,7 +432,7 @@
         "yt" : ""
       }
     },
-    "BCA 311" : {
+    "MCA 311" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -448,7 +448,7 @@
         "5 Cryptography and network security" : "https://www.youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8"
       }
     },
-    "BCA 312" : {
+    "MCA 312" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -460,7 +460,7 @@
         "yt" : ""
       }
     },
-    "BCA 313" : {
+    "MCA 313" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -472,7 +472,7 @@
         "yt" : ""
       }
     },
-    "BCA 314" : {
+    "MCA 314" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -484,7 +484,7 @@
         "yt" : ""
       }
     },
-    "BCA 315" : {
+    "MCA 315" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
@@ -497,7 +497,7 @@
         "2 CA Foundation - Business Economics" : "https://www.youtube.com/playlist?list=PLBiVUADzZpd_hh5lFerym1qSQ9TQfNYuW"
       }
     },
-    "BCA 316" : {
+    "MCA 316" : {
       "Akash_url" : "",
       "Book_url" : "",
       "Notes" : {
