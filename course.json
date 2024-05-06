@@ -23,8 +23,7 @@ Minimization of Boolean Function, K-Map."
                     },
                     "unit_3":{
                        "title":"Number Theory & Group Theory",
-                       "chapters":"Primes, Division Algorithm, Greatest Common Divisor (GCD), LCM, Euclidean Algorithm, Fundamental Theorem of Arithmetic, Congruences, Linear Congruence equations, Chinese-Remainder Theorem, Euler Phi function, Fermat’s Little Theorem, Applications of Congruences – ISBN, UPC, Introduction to Cryptography. 
-                      Definition, Groups as Symmetries, Subgroups, Cosets, Cyclic Group, Normal Subgroups, Quotient Group, Lagrange’s Theorem, Homomorphism, Permutation Group."
+                       "chapters":"Primes, Division Algorithm, Greatest Common Divisor (GCD), LCM, Euclidean Algorithm, Fundamental Theorem of Arithmetic, Congruences, Linear Congruence equations, Chinese-Remainder Theorem, Euler Phi function, Fermat’s Little Theorem, Applications of Congruences – ISBN, UPC, Introduction to Cryptography. Definition, Groups as Symmetries, Subgroups, Cosets, Cyclic Group, Normal Subgroups, Quotient Group, Lagrange’s Theorem, Homomorphism, Permutation Group."
                     },
                     "unit_4":{
                        "title":"INTEGRATION",
