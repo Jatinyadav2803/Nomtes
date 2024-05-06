@@ -30,24 +30,24 @@
                  }
               },
               {
-                 "title":"Technical Communication",
+                 "title":"Computer Networks",
                  "paper_id":20103,
                  "syllabus":{
                     "unit_1":{
-                       "title":"Concepts and Fundamentals",
-                       "chapters":"Introduction to Technical Communication, meaning of communication, Importance of communication, Communication scope, types, Process of communication, Communication models and theories, Essentials of good communication - The seven Cs of communication, Factors responsible for growing importance of communication, Channels of communication, Verbal and Non-Verbal communication, Formal and Informal communication, Barriers of, and aids to communication. "
+                       "title":"Introductory Concepts & Physical Layer",
+                       "chapters":"Goals and Applications of Computer Networks, OSI reference model, TCP/IP protocol suite, networks topology & design. Networking Devices (Hub, Bridge, Switch & router). The functions of Physical Layer, Guided Transmission Media, Wireless Transmission media, Communication Satellites, Digital Signal Encoding Formats, Digital to analog Modulation, Digitization – Sampling Theorem, PCM, DM, Analog to digital Modulation, The Mobile Telephone System, Multiplexing."
                     },
                     "unit_2":{
-                       "title":"LIMITS & CONTINUITY",
-                       "chapters":"Objectives of written communication, Media of written communication, Merits and demerits of written communication, Planning and preparing of effective business messages. Persuasive writing.   Overview of Technical Research and Report Writing : Definition and Nature of Technical Writing, Properties/features and process of Technical Writing, Basic Principles of Technical Writing, Styles in Technical Writing, The Role of Technical Writing, The Wholistic Guide of Technical Writing , End-products of Technical Writing. Writing Proposals.   Writing Letters: Business letters, Office memorandum, Good news and bad news letters, Persuasive letters, Sales letters, Letter styles/ layout.   Report Writing: Meaning & Definition, Types of report (Business report & Academic report), Format of report, Drafting the report, Layout of the report, Essential requirement of good report writing.   Job Application: Types of application, Form & Content of an application, drafting the application, Preparation of resume.  "
+                       "title":"The Data Link Layer & Medium Access Sub-Layer",
+                       "chapters":"Data Link Layer introduction, Error Detection and Correction, Flow Control Protocols, Error Control protocols. Channel allocation problem, ALOHA Protocols, Carrier Sense Multiple Access Protocols, CSMA with Collision Detection, Collision free protocols, Ethernet, wireless LANs, Blue Tooth, Wi-Fi."
                     },
                     "unit_3":{
-                       "title":"Oral Communication",
-                       "chapters":"Principles of effective oral communication, Media of oral communication, Advantages of oral communication, Disadvantages of oral communication, Styles of oral communication.   Interviews: Meaning & Purpose, Art of interviewing, Types of interview, Interview styles, Essential Features, Structure, Guidelines for Interviewer, Guidelines for interviewee.  Meetings: Definition, Kind of meetings, Advantages and disadvantages of meetings/ committees, Planning and organization of meetings.  Project Presentations: Advantages & Disadvantages, Executive Summary, Charts, Distribution of time (presentation, questions & answers, summing up), Visual presentation, Guidelines for using visual aids, Electronic media (power-point presentation).  Listening Skills: Good listening for improved communications, Art of listening, Meaning, nature, process, types and importance of listening, Principles of good listening, Barriers in listening  Negotiation Skills : Definition of negotiation, Factors that can influence negotiation, what skills do we need to negotiate, Negotiation process (preparation, proposals, discussions, bargaining, agreement, implementation).   Strategies to, improve oral, presentation, speaking and listening skills.  "
+                       "title":"Network Layer, IPv4, IPv6 & Mobile IP",
+                       "chapters":"Functions of network layer, Classful & classless addressing, Routing algorithms, IP packet format. Addressing, neighbor discovery, address auto configuration. Mobility in networks, IP Multicasting (Source based tree & Group shared tree)."
                     },
                     "unit_4":{
-                       "title":"Soft Skills & Language Skills",
-                       "chapters":"Soft Skills: Non Verbal communication- kinesics & Proxemics, parlanguage, interpersonal skills, Corporate communication skills - Business Etiquettes [T1,T2,T4]  Language Skills: Improving command in English, improving vocabulary, choice of words, Common problems with verbs, adjectives, adverbs, pronouns, tenses, conjunctions, punctuations, prefix, suffix, idiomatic use of prepositions. Sentences and paragraph construction, improve spellings, introduction to Business English.  "
+                       "title":"Transport Layer & Application Layer",
+                       "chapters":"Transport layer functions, Transport layer protocols, UDP, TCP, connection management, flow control, error control and congestion control. Application Layer: DNS, Electronic Mail, www, firewalls, Concept of public & private keys."
                     }
                  }
               },
